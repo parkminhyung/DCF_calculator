@@ -4,7 +4,22 @@ A sophisticated web application for calculating intrinsic value of stocks using 
 
 [English](#english) | [한국어](#한국어) | [日本語](#日本語) | [中文](#中文)
 
-![DCF Calculator Screenshot](https://raw.githubusercontent.com/username/dcf-calculator/main/screenshot.png)
+![Xnip2025-05-22_17-07-45](https://github.com/user-attachments/assets/f12f834f-44be-4576-a948-de1078b0c1fe)
+
+![Xnip2025-05-22_17-08-18](https://github.com/user-attachments/assets/5827b602-cf2a-4c7f-89c4-b40f8250f134)
+
+![Xnip2025-05-22_17-08-46](https://github.com/user-attachments/assets/6c2ddfef-2ffd-4a57-91ed-d078fa0f7e5e)
+
+![Xnip2025-05-22_17-09-32](https://github.com/user-attachments/assets/7a09fb4e-ded9-4725-b708-bd0c68136836)
+
+![Xnip2025-05-22_17-10-16](https://github.com/user-attachments/assets/e36e3220-34fb-4391-8631-804600f45cca)
+
+![Xnip2025-05-22_17-10-44](https://github.com/user-attachments/assets/49acb4ad-2f11-4d22-b048-3bc830523318)
+
+![Xnip2025-05-22_17-11-04](https://github.com/user-attachments/assets/cbb0c017-82c8-4311-86e4-91b28c731791)
+
+![Xnip2025-05-22_17-11-25](https://github.com/user-attachments/assets/0eaac1e0-d413-4a1f-965d-72f30b816867)
+
 
 ## English
 
