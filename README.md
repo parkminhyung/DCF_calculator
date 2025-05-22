@@ -147,7 +147,7 @@ Built with Python and leveraging real-time financial data from yfinance, this to
 git clone https://github.com/parkminhyung/DCF_calculator
 
 # Navigate to the project directory
-cd dcf-calculator
+cd DCF_calculator
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
@@ -355,7 +355,7 @@ Python으로 제작되고 yfinance의 실시간 재무 데이터를 활용하는
 git clone https://github.com/parkminhyung/DCF_calculator
 
 # 프로젝트 디렉토리로 이동
-cd dcf-calculator
+cd DCF_calculator
 
 # 가상환경 생성 (선택사항이지만 권장됨)
 python -m venv venv
@@ -563,7 +563,7 @@ Pythonで構築され、yfinanceからのリアルタイム財務データを活
 git clone https://github.com/parkminhyung/DCF_calculator
 
 # プロジェクトディレクトリに移動
-cd dcf-calculator
+cd DCF_calculator
 
 # 仮想環境を作成（オプションですが推奨）
 python -m venv venv
@@ -771,7 +771,7 @@ DCF计算器是一个专为投资者、财务分析师和学生设计的强大St
 git clone https://github.com/parkminhyung/DCF_calculator
 
 # 导航到项目目录
-cd dcf-calculator
+cd DCF_calculator
 
 # 创建虚拟环境（可选但推荐）
 python -m venv venv
