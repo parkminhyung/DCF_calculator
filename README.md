@@ -6,8 +6,6 @@ A sophisticated web application for calculating intrinsic value of stocks using 
 
 ![Xnip2025-05-22_17-16-45](https://github.com/user-attachments/assets/d72e7100-0605-4288-9798-79039ab130e6)
 
-![Uploading Xnip2025-05-22_17-17-02.jpg…]()
-
 ![Xnip2025-05-22_17-17-10](https://github.com/user-attachments/assets/a9ee1789-014b-430d-b328-f20a2c293888)
 
 ![Xnip2025-05-22_17-19-56](https://github.com/user-attachments/assets/3c57b949-6a9e-497f-b967-f181ec0e4aa2)
