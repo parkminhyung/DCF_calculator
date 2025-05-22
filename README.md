@@ -4,22 +4,23 @@ A sophisticated web application for calculating intrinsic value of stocks using 
 
 [English](#english) | [한국어](#한국어) | [日本語](#日本語) | [中文](#中文)
 
-![Xnip2025-05-22_17-07-45](https://github.com/user-attachments/assets/f12f834f-44be-4576-a948-de1078b0c1fe)
+![Xnip2025-05-22_17-16-45](https://github.com/user-attachments/assets/d72e7100-0605-4288-9798-79039ab130e6)
 
-![Xnip2025-05-22_17-08-18](https://github.com/user-attachments/assets/5827b602-cf2a-4c7f-89c4-b40f8250f134)
+![Uploading Xnip2025-05-22_17-17-02.jpg…]()
 
-![Xnip2025-05-22_17-08-46](https://github.com/user-attachments/assets/6c2ddfef-2ffd-4a57-91ed-d078fa0f7e5e)
+![Xnip2025-05-22_17-17-10](https://github.com/user-attachments/assets/a9ee1789-014b-430d-b328-f20a2c293888)
 
-![Xnip2025-05-22_17-09-32](https://github.com/user-attachments/assets/7a09fb4e-ded9-4725-b708-bd0c68136836)
+![Xnip2025-05-22_17-19-56](https://github.com/user-attachments/assets/3c57b949-6a9e-497f-b967-f181ec0e4aa2)
 
-![Xnip2025-05-22_17-10-16](https://github.com/user-attachments/assets/e36e3220-34fb-4391-8631-804600f45cca)
+![Xnip2025-05-22_17-20-42](https://github.com/user-attachments/assets/4859d4af-e33a-4a83-ab9a-a78ed2f9c0af)
 
-![Xnip2025-05-22_17-10-44](https://github.com/user-attachments/assets/49acb4ad-2f11-4d22-b048-3bc830523318)
+![Xnip2025-05-22_17-20-56](https://github.com/user-attachments/assets/803e4e01-a38c-4229-a5a7-885a99f61f91)
 
-![Xnip2025-05-22_17-11-04](https://github.com/user-attachments/assets/cbb0c017-82c8-4311-86e4-91b28c731791)
+![Xnip2025-05-22_17-21-12](https://github.com/user-attachments/assets/26152557-6300-455c-b2a1-11385e14791b)
 
-![Xnip2025-05-22_17-11-25](https://github.com/user-attachments/assets/0eaac1e0-d413-4a1f-965d-72f30b816867)
+![Xnip2025-05-22_17-21-35](https://github.com/user-attachments/assets/fa0ccb9b-a02a-4d06-808a-e8b59220e9eb)
 
+![Xnip2025-05-22_17-22-08](https://github.com/user-attachments/assets/1e5c653e-c0a4-4792-b8aa-3227ae58d0b2)
 
 ## English
 
