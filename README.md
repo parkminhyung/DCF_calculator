@@ -2,6 +2,8 @@
 
 A sophisticated web application for calculating intrinsic value of stocks using Discounted Cash Flow (DCF) model and multiple-based valuation methods.
 
+## Screenshot 
+
 [English](#english) | [한국어](#한국어) | [日本語](#日本語) | [中文](#中文)
 
 ![Xnip2025-05-22_17-16-45](https://github.com/user-attachments/assets/d72e7100-0605-4288-9798-79039ab130e6)
@@ -19,6 +21,8 @@ A sophisticated web application for calculating intrinsic value of stocks using 
 ![Xnip2025-05-22_17-21-35](https://github.com/user-attachments/assets/fa0ccb9b-a02a-4d06-808a-e8b59220e9eb)
 
 ![Xnip2025-05-22_17-22-08](https://github.com/user-attachments/assets/1e5c653e-c0a4-4792-b8aa-3227ae58d0b2)
+
+---
 
 ## English
 
