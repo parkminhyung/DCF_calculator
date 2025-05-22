@@ -144,7 +144,7 @@ Built with Python and leveraging real-time financial data from yfinance, this to
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/dcf-calculator.git
+git clone https://github.com/parkminhyung/DCF_calculator
 
 # Navigate to the project directory
 cd dcf-calculator
@@ -352,7 +352,7 @@ Python으로 제작되고 yfinance의 실시간 재무 데이터를 활용하는
 
 ```bash
 # 저장소 복제
-git clone https://github.com/username/dcf-calculator.git
+git clone https://github.com/parkminhyung/DCF_calculator
 
 # 프로젝트 디렉토리로 이동
 cd dcf-calculator
@@ -560,7 +560,7 @@ Pythonで構築され、yfinanceからのリアルタイム財務データを活
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/username/dcf-calculator.git
+git clone https://github.com/parkminhyung/DCF_calculator
 
 # プロジェクトディレクトリに移動
 cd dcf-calculator
@@ -768,7 +768,7 @@ DCF计算器是一个专为投资者、财务分析师和学生设计的强大St
 
 ```bash
 # 克隆存储库
-git clone https://github.com/username/dcf-calculator.git
+git clone https://github.com/parkminhyung/DCF_calculator
 
 # 导航到项目目录
 cd dcf-calculator
