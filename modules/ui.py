@@ -788,7 +788,7 @@ def render_valuation_tab(data, financials, financial_ratios):
         # Calculate DCF results for potential use elsewhere
         from .financials import calculate_two_stage_dcf
         
-        # Calculate DCF with the two-stage GuruFocus approach
+        # Calculate DCF with the two-stage 
         dcf_result = calculate_two_stage_dcf(
             initial_fcf * 1e6,  # Convert from millions to actual value
             growth_rate,  # Already in decimal
