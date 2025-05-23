@@ -8,6 +8,7 @@ A sophisticated web application for calculating intrinsic value of stocks using 
   
 ![1](https://github.com/user-attachments/assets/24edbb89-c384-4886-af4a-3693c7c26d03)
 
+<img src="https://github.com/user-attachments/assets/24edbb89-c384-4886-af4a-3693c7c26d03" width="800"/>
 
 - Financial Statement tab
   
