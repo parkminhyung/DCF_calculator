@@ -5,12 +5,17 @@ A sophisticated web application for calculating intrinsic value of stocks using 
 ## Screenshot 
 
 - DCF calculator tab
+  
 ![1](https://github.com/user-attachments/assets/24edbb89-c384-4886-af4a-3693c7c26d03)
 
+
 - Financial Statement tab
+  
 ![2](https://github.com/user-attachments/assets/63177b36-decc-45a7-8f40-427828e3ffc3)
 
+
 - Charts & Latest News tab
+  
 ![3](https://github.com/user-attachments/assets/ab21ed74-15ef-4b7f-9045-f493b80f5284)
 
 ---
